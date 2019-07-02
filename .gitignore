@@ -9,10 +9,9 @@ spinn_acp/
 spinn_mpi/
 spinn_mcm/
 
-spinn_frontend_common/SpiNNFrontEndCommon.egg-info/
-spinn_frontend_common/c_common/front_end_common_lib/build/
-spinnaker_tools/scamp/build/
-spynnaker/sPyNNaker.egg-info/
+build/
+builds/
+*.egg-info
 spynnaker_external_device_plugin/.gitignore
 
 .idea/
