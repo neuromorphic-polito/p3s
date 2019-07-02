@@ -25,7 +25,7 @@ spinn_mpi
 spinnaker_tools,
 spinnaker_tools/scamp,*
 spinn_common,*
-spinn_two,*
+spinn_mcm,*
 spinn_acp,*
 spinn_mpi,*
 spinn_frontend_common/c_common,*
