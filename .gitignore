@@ -1,0 +1,14 @@
+spinn_man/
+spinn_machine/
+spinn_common/
+spinn_storage_handlers/
+pacman/
+data_specification/
+ybug/
+spinn_acp/
+spinn_mpi/
+spinn_mcm/
+
+.idea/
+.pyvenv/
+.vscode/
