@@ -5,7 +5,6 @@ https://github.com/SpiNNakerManchester/spinn_common.git,831b6f6,spinn_common
 https://github.com/SpiNNakerManchester/SpiNNStorageHandlers.git,9782093,spinn_storage_handlers
 https://github.com/SpiNNakerManchester/PACMAN.git,2019e48,pacman
 https://github.com/SpiNNakerManchester/DataSpecification.git,a019e8a,data_specification
-https://github.com/SpiNNakerManchester/sPyNNakerExternalDevicesPlugin.git,5f3fde3,spynnaker_external_device_plugin
 https://github.com/SpiNNakerManchester/ybug.git,ee409ae,ybug
 https://github.com/neuromorphic-polito/spinn_acp.git,acp_beyond,spinn_acp
 https://github.com/neuromorphic-polito/spinn_mpi,acp_beyond,spinn_mpi
