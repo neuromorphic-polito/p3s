@@ -6,9 +6,9 @@ https://github.com/SpiNNakerManchester/SpiNNStorageHandlers.git,9782093,spinn_st
 https://github.com/SpiNNakerManchester/PACMAN.git,2019e48,pacman
 https://github.com/SpiNNakerManchester/DataSpecification.git,a019e8a,data_specification
 https://github.com/SpiNNakerManchester/ybug.git,ee409ae,ybug
-https://github.com/neuromorphic-polito/spinn_acp.git,acp_beyond,spinn_acp
-https://github.com/neuromorphic-polito/spinn_mpi,acp_beyond,spinn_mpi
-https://github.com/neuromorphic-polito/spinn_mcm,acp_beyond,spinn_mcm
+https://github.com/neuromorphic-polito/spinn_acp.git,master,spinn_acp
+https://github.com/neuromorphic-polito/spinn_mpi,master,spinn_mpi
+https://github.com/neuromorphic-polito/spinn_mcm,master,spinn_mcm
 #
 spinn_storage_handlers
 spinn_machine
