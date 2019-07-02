@@ -12,7 +12,8 @@ spinn_mcm/
 build/
 builds/
 *.egg-info
-spynnaker_external_device_plugin/.gitignore
+*.aplx
+*.boot
 
 .idea/
 .pyvenv/
