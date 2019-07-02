@@ -12,7 +12,6 @@
 
 #include "lpc17xx.h"
 
-#include <string.h>
 
 #include "bmp.h"
 

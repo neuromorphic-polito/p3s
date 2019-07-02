@@ -29,7 +29,6 @@ typedef unsigned short ushort;
 #include <stdlib.h>
 #include <sys/types.h>
 #include <sys/time.h>
-#include <string.h>
 #include <signal.h>
 #include <errno.h>
 #include <pthread.h>

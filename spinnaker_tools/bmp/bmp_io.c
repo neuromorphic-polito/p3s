@@ -12,7 +12,6 @@
 
 
 #include <stdarg.h>
-#include <string.h>
 
 #include "lpc17xx.h"
 #include "bmp.h"

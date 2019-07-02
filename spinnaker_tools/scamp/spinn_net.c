@@ -17,7 +17,6 @@
 
 #include "spinn_net.h"
 
-#include <string.h>
 
 
 extern srom_data_t srom;
