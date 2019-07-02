@@ -7,9 +7,6 @@ https://github.com/SpiNNakerManchester/PACMAN.git,2019e48,pacman
 https://github.com/SpiNNakerManchester/DataSpecification.git,a019e8a,data_specification
 https://github.com/SpiNNakerManchester/sPyNNakerExternalDevicesPlugin.git,5f3fde3,spynnaker_external_device_plugin
 https://github.com/SpiNNakerManchester/ybug.git,ee409ae,ybug
-ssh://git@philae.polito.it:2222/spinnaker_developers/core_software/spinnaker_tools,3a94d49d,spinnaker_tools
-ssh://git@philae.polito.it:2222/spinnaker_developers/core_software/spinn_frontend_common,bcf19828,spinn_frontend_common
-ssh://git@philae.polito.it:2222/spinnaker_developers/core_software/spynnaker,9fa8219c,spynnaker
 https://github.com/neuromorphic-polito/spinn_acp.git,acp_beyond,spinn_acp
 https://github.com/neuromorphic-polito/spinn_mpi,acp_beyond,spinn_mpi
 https://github.com/neuromorphic-polito/spinn_mcm,acp_beyond,spinn_mcm
