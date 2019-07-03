@@ -27,6 +27,7 @@ Requirements:
 2. Activate the virtual environment:
 
 ::
+
 	% source activate.sh
 
 Usage instructions
@@ -37,6 +38,7 @@ Activate the virtual environment before compiling or running any MPI application
 In the p3s folder:
 
 ::
+
 	% source activate.sh
 
 Authorship and copyright
