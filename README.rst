@@ -16,7 +16,7 @@ Requirements:
 * gcc
 * cmake
 * arm-none-eabi-gcc
-* Perl 5
+* perl 5
 
 1. In the p3s folder, call the download, setup and compilation script:
 
