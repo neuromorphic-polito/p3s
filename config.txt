@@ -9,7 +9,7 @@ https://github.com/SpiNNakerManchester/ybug.git,ee409ae,ybug
 https://github.com/neuromorphic-polito/spinn_acp.git,master,spinn_acp
 https://github.com/neuromorphic-polito/SpinMPI,master,spinn_mpi
 https://github.com/neuromorphic-polito/spinn_mcm,master,spinn_mcm
-https://github.com/neuromorphic-polito/m3s
+https://github.com/neuromorphic-polito/m3s,master,m3s
 #
 spinn_storage_handlers
 spinn_machine
