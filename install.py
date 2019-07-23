@@ -91,10 +91,10 @@ class Install:
             
             s = ""
             s += "export SPINN_DIRS={}\n".format(
-                os.path.join(selfpath, "spinnaker_tools"))
+                os.path.join(selfpath, "m3s", "spinnaker_tools"))
             s += "export SPINN_PATH=$SPINN_DIRS/tools/boot\n"
             s += "export NEURAL_MODELLING_DIRS={}\n".format(
-                os.path.join(selfpath, "spynnaker", "neural_modelling"))
+                os.path.join(selfpath, "m3s", "spynnaker", "neural_modelling"))
             s += "export PATH=$SPINN_DIRS/tools:$PATH\n"
             s += "export PERL5LIB=$SPINN_DIRS/tools:$PERL5LIB\n"
             s += "chmod u+x $SPINN_DIRS/tools/*\n"
