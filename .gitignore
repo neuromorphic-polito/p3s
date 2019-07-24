@@ -8,6 +8,7 @@ ybug/
 spinn_acp/
 spinn_mpi/
 spinn_mcm/
+m3s/
 
 build/
 builds/
