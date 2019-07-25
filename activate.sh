@@ -22,6 +22,6 @@
 # ==========================================================================
 
 source ./.pyvenv/bin/activate
-cd ./spinnaker_tools
+cd ./m3s/spinnaker_tools
 source ./setup
 cd -
